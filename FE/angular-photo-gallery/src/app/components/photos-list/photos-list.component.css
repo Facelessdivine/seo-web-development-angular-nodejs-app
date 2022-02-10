@@ -1,7 +1,9 @@
 .card-photo {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .card-photo:hover {
-    border: 1px solid #333;
+  /* border: 1px solid #333;  */
+  background: #333;
+  background: var(--card-background-color);
 }
