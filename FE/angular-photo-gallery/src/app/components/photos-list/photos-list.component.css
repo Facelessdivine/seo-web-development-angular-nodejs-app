@@ -3,7 +3,10 @@
 }
 
 .card-photo:hover {
-  /* border: 1px solid #333;  */
+  border: 1px solid #333; 
   background: #333;
-  background: var(--card-background-color);
+  background: var(--td-background-color);
 }
+
+
+
